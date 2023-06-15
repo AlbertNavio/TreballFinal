@@ -35,5 +35,5 @@ while registre < len(alumnes):
 
     registre += 1
 
-# Tancam la conexio amb la BDS
+# Tancam la conexio amb la BD
 connexio.close()
